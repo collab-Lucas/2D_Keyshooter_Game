@@ -1,0 +1,19 @@
+{
+  "name": "2d_keyshooter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-win": "electron-packager . 2D_KeyShooter --platform=win32 --arch=x64 --out=dist/",
+    "package-mac": "electron-packager . 2D_KeyShooter --platform=darwin --arch=x64 --out=dist/",
+    "package-linux": "electron-packager . 2D_KeyShooter --platform=linux --arch=x64 --out=dist/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^34.0.1",
+    "phaser": "^3.87.0"
+  }
+}
