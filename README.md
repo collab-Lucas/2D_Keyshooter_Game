@@ -20,10 +20,12 @@ Pour démarrer rapidement avec le projet, suivez ces étapes :
    ```bash
    git clone https://github.com/collab-Lucas/2D_Keyshooter_Game.git
 2. Installez les dépendances :
-cd 2D_Keyshooter_Game
-npm install
+    ```bash
+    cd 2D_Keyshooter_Game
+    npm install
 3. Lancez le jeu :
-npm start
+    ```bash
+    npm start
 
 ## Prérequis
 
@@ -31,17 +33,20 @@ Node.js et npm installés sur votre machine.
 Un navigateur web moderne (Chrome, Firefox, etc.).
 1. Installation
 Clonez le dépôt :
-git clone https://github.com/collab-Lucas/2D_Keyshooter_Game.git
+    ```bash
+    git clone https://github.com/collab-Lucas/2D_Keyshooter_Game.git
 2. Naviguez dans le répertoire du projet :
-cd 2D_Keyshooter_Game
+    ```bash
+    cd 2D_Keyshooter_Game
 3. Installez les dépendances :
-npm install
+    ```bash
+    npm install
 
 ## Utilisation
 
 Pour lancer le jeu, utilisez la commande suivante :
-
-npm start
+    ```bash
+    npm start
 Ouvrez ensuite votre navigateur web et allez à l'adresse http://localhost:8080 pour jouer au jeu.
 
 ## Structure du projet
@@ -62,11 +67,14 @@ Les contributions sont les bienvenues ! Pour contribuer, suivez ces étapes :
 
 1. Fork le dépôt.
 2. Créez une nouvelle branche :
-git checkout -b ma-nouvelle-fonctionnalité
+    ```bash
+    git checkout -b ma-nouvelle-fonctionnalité
 3. Commitez vos modifications :
-git commit -m 'Ajout de ma nouvelle fonctionnalité'
+    ```bash
+    git commit -m 'Ajout de ma nouvelle fonctionnalité'
 4. Poussez vers la branche :
-git push origin ma-nouvelle-fonctionnalité
+    ```bash
+    git push origin ma-nouvelle-fonctionnalité
 5. Ouvrez une Pull Request.
 
 ## Licence
